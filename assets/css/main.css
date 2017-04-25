@@ -9,6 +9,14 @@ li {
   list-style: none;
 }
 
+a {
+  text-decoration: none;
+}
+
+li:hover {
+  background-color: #E6E6E6
+}
+
 footer{
 	width: 100%;
 	display: inline-block;
