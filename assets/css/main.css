@@ -8,3 +8,15 @@ li {
   margin-left: 50px;
   list-style: none;
 }
+
+footer{
+	width: 100%;
+	display: inline-block;
+	background-color: black;
+	color: white;
+	padding: 80px;
+}
+.links_contact li a{
+	color: white;
+	
+}
