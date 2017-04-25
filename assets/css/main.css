@@ -8,3 +8,11 @@ li {
   margin-left: 50px;
   list-style: none;
 }
+
+a {
+  text-decoration: none;
+}
+
+li:hover {
+  background-color: #E6E6E6;
+}
