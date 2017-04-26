@@ -27,6 +27,49 @@ footer{
 .contact_li{
 	color: white;
 }
+
+.barra_morada{
+  background-color:#563d7c;
+  height: 650px;
+  position: relative;
+}
+.info{
+  position: absolute;
+  margin-top: 250px;
+  margin-left: 300px;
+  color: white;
+  font-size: 30px;
+
+}
+.descarga{
+  position: absolute;
+  background: transparent;
+  cursor: pointer;
+  color: white;
+  width: 300px;
+  height: 60px;
+  margin-left: 550px;
+  margin-top: 400px;
+  border:1px solid white;
+  border-radius: 10px;
+  transition-duration: 0.4s;
+  font-size: 20px;
+
+}
+.b{
+  border: 1px solid white;
+  border-radius: 10px;
+  padding: 30px;
+  position: absolute;
+  margin-left: 650px;
+  margin-top: 100px;
+  font-size: 60px;
+  color: white;
+}
+.descarga:hover{
+  background-color: white;
+  color: purple;
+}
 .encabezado {
   font-family: Helvetica, sans-serif;
   text-align: center;
